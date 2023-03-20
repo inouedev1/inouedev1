@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inouedev1
 - 👀 I’m interested in learning prog
-- 🌱 I’m currently learning python, C, Hmtl5 and Css,
+- 🌱 I’m currently learning JavaScript and ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @inouelol1 everywhere
 
